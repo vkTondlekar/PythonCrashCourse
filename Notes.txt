@@ -1,0 +1,15 @@
+3200 dpi
+1000
+4254685321
+NOTE
+The best way to understand new programming concepts is to try using them in your programs. If you get stuck while working on 
+an exercise in this book, try doing something else for a while. If you’re still stuck, review the relevant part of that chapter. 
+If you still need help, see the suggestions in Appendix C.
+
+	The Python variables you’re using at this point should be lowercase. 
+	You won’t get errors if you use uppercase letters, but uppercase letters in variable names have special meanings 
+	that we’ll discuss in later chapters
+	
+	variables as labels that you can assign to values.
+	
+	
