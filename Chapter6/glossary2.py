@@ -9,9 +9,9 @@ glossary = {'insert': 'The method inserts the specified value at the specified p
             'remove': 'The method removes the specified item.',
             'strings': 'Strings in python are surrounded by either single quotation marks, or double quotation marks.',
             'boolean': 'Booleans represent one of two values: True or False.',
-            'sets':'Sets are used to store multiple items in a single variable.',
-            'whileLoop':'With the while loop we can execute a set of statements as long as a condition is true.'
+            'sets': 'Sets are used to store multiple items in a single variable.',
+            'whileLoop': 'With the while loop we can execute a set of statements as long as a condition is true.'
             }
 
 for key in glossary.keys():
-    print(key,":",glossary[key])
+    print(key, ":", glossary[key])

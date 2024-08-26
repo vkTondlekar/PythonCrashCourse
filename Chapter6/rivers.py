@@ -7,12 +7,12 @@ Use a loop to print the name of each river included in the dictionary.
 Use a loop to print the name of each country included in the dictionary
 """
 
-rivers = {'krishna':'india',
-          'thames':'england',
-          'amazon':'peru'}
+rivers = {'krishna': 'india',
+          'thames': 'england',
+          'amazon': 'peru'}
 for river in rivers.keys():
     print(f"{river.title()}, starts from {rivers[river]}")
 for river in rivers.keys():
     print(f"\t {river.title()}")
 for river in rivers.values():
-    print(f"\t\t {river.title()}")
+    print(f'\t\t {river.title()}')

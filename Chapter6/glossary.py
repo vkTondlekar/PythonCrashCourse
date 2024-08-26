@@ -13,12 +13,12 @@ glossary = {'insert': 'The method inserts the specified value at the specified p
             'strings': 'Strings in python are surrounded by either single quotation marks, or double quotation marks.',
             'boolean': 'Booleans represent one of two values: True or False.'
             }
-#print(glossary['insert'])
+# print(glossary['insert'])
 for item in glossary:
-    print(item,":",glossary[item])
+    print(item, ":", glossary[item])
 
 for key in glossary:
-    print(key,"\n",glossary[key])
+    print(key, "\n", glossary[key])
 
 for key, value in glossary.items():
-    print("\n",key,":",value)
+    print("\n", key, ":", value)
