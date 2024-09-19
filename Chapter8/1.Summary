@@ -1,0 +1,25 @@
+When you want to perform a particular task that you’ve defined in a function, you call
+the function responsible for it.
+Using functions makes your programs easier to write, read, test, and fix.
+You can store functions in separate files called modules to help organize your main program files.
+* keyword def to inform Python that you’re defining a function. This is the function definition,
+  which tells Python the name of the function
+* The parentheses hold that information.
+* lines that follow def greet_user(): make up the body of the function.
+* The text on the second line is a comment called a docstring, which describes what the function does.
+* When Python generates documentation for the functions in your programs, it looks for a string
+  immediately after the function's definition. These strings are usually enclosed in triple quotes,
+  which lets you write multiple lines.
+* When you want to use this function, you have to call it. A function call tells Python to execute
+  the code in the function. To call a function, you write the name of the function, followed by any
+  necessary information in parentheses.
+* a parameter, a piece of information the function needs to do its job.
+
+
+Python capitalize() and title() are 2 inbuilt functions used for string handling.
+
+title() – Python title() method returns a title cased string by converting the initial letter
+of each word to a capital letter.
+
+capitalize() – The capitalize() method only capitalizes the first character of the string i.e.
+it converts only the first letter of the input string into uppercase and others to lowercase.
